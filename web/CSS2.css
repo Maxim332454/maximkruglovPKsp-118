@@ -1,0 +1,15 @@
+h1{
+text-align:left;
+font-family: "Arial", Bold;
+font-style: italic;  
+font-size: 24px;
+text-decoration: underline
+}
+.underline {
+border-right: 1px solid;
+}
+p{
+border: 1px solid black;
+margin: 0px 1000px 0px 0px;
+background-color: BurlyWood; /*Задание абзацев в цифровом формате*/
+}
